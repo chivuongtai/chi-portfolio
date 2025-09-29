@@ -1,0 +1,36 @@
+* {
+    margin-left: 20px;
+    margin-right: -20px;
+}
+
+a {
+    margin: 0;
+}
+
+.title {
+    text-align: center;
+}
+
+li {
+    font-size: 19px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h2[class] {
+    font-size: 19px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+h3 {
+    font-size: 21px;
+}
+
+p {
+    text-align: center;
+    font-style: italic;
+    font-size: 19px;
+}
