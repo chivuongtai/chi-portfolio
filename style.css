@@ -1,6 +1,6 @@
 * {
-    margin-left: 20px;
-    margin-right: -20px;
+    margin-left: 50px;
+    margin-right: -50px;
 }
 
 a {
@@ -12,25 +12,28 @@ a {
 }
 
 li {
-    font-size: 19px;
+    font-size: 18px;
 }
 
+h1 {
+    font-size: 30px;
+}
 h2 {
-    font-size: 28px;
+    font-size: 26px;
 }
 
 h2[class] {
-    font-size: 19px;
+    font-size: 18px;
     font-style: italic;
     font-weight: normal;
 }
 
 h3 {
-    font-size: 21px;
+    font-size: 20px;
 }
 
 p {
     text-align: center;
     font-style: italic;
-    font-size: 19px;
+    font-size: 18px;
 }
