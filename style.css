@@ -14,7 +14,7 @@ a {
     margin: 0;
 }
 
-.title {
+.title, h2 {
     text-align: center;
 }
 
